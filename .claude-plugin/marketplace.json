@@ -9,9 +9,7 @@
   "plugins": [
     {
       "name": "r-lsp",
-      "description": "R language server for code intelligence - diagnostics, go-to-definition, hover, references, and formatting via languageserver",
-      "source": ".",
-      "category": "development"
+      "description": "R language server for code intelligence - diagnostics, go-to-definition, hover, references, and formatting via languageserver"
     }
   ]
 }
