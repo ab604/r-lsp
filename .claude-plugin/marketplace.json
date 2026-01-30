@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "r-lsp",
+  "version": "1.0.0",
+  "description": "R language server plugin for Claude Code",
+  "owner": {
+    "name": "ab604"
+  },
+  "plugins": [
+    {
+      "name": "r-lsp",
+      "description": "R language server for code intelligence - diagnostics, go-to-definition, hover, references, and formatting via languageserver",
+      "source": ".",
+      "category": "development"
+    }
+  ]
+}
