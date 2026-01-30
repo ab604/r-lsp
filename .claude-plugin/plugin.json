@@ -1,0 +1,20 @@
+{
+  "name": "r-lsp",
+  "version": "1.0.0",
+  "description": "R language server for code intelligence - diagnostics, go-to-definition, hover, references, and formatting via languageserver",
+  "author": {
+    "name": "Claude Code R Skills"
+  },
+  "homepage": "https://github.com/ab604/r-lsp",
+  "repository": "https://github.com/ab604/r-lsp",
+  "license": "MIT",
+  "keywords": [
+    "r",
+    "lsp",
+    "languageserver",
+    "code-intelligence",
+    "diagnostics",
+    "lintr",
+    "styler"
+  ]
+}
