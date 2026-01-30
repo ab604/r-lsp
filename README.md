@@ -2,6 +2,8 @@
 
 Claude Code plugin for R language server integration. Provides code intelligence for R files including diagnostics, go-to-definition, hover documentation, find references, and code formatting.
 
+> **Note:** If you're using [Positron](https://github.com/posit-dev/positron), you don't need this plugin—Positron has built-in R language server support. This plugin is for VS Code, terminal Claude Code, and other environments without native R LSP integration.
+
 ## Features
 
 Once installed, Claude gains these capabilities when working with R files:
